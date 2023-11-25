@@ -1,151 +1,313 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75af6b31-c28b-43e9-89dd-6801d65e3654" name="Default Changelist" comment="7">
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10192/360b8f453e016cb641208a6a8fb589bc【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10325/55f1c7f0550adbbcc885c97a4dd426bb【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10325/593735623f6917695602095fd249d527【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10325/6eeee6624c7dc6be54bfce5e93064233【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10325/721e97abc93449fbdb4c071f7b3b5289【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10325/82d1fbc9ca09698c01ccff18fb97c8cd【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10325/945740c37433f783d2d877c67dcc1170【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10325/97d060b306e44af3a8443f932a0a4d42【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10325/b07d6da56f588cbfadbb7b381346213b【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10325/f546839e98ea5d43b595235849b0f2bd【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10325/fa491795ffe21c1f49982de8b7810c2e【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10513/399a0c23d1d57e08a2603fb76f328e25【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10513/3be4ac4834e2790a8211252f2bebfd48【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10513/44d4a92e8e20f46e6646eae53442256d【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10513/dbcb15c99b368773145b358734e10e8d【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10651/47dddbd91ad0e0adbd164632eb9facec【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10651/a662fda0de8af087c37c40a86a9cf3f1【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10651/eb50bb2b270478bc6f525aa615d4a3d3【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10772/5d74ad650fa5d1cdf80df3b3062357e5【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10772/ff8afc2561e8891bc74a0112905fed61【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/10975/a069a294d32d7778f3410192221358fb【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/11211/b48e754c6ebb11b6934f4697b7091854【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/11651/3b927b63bec67f99e8dd72860a292601【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/11651/93aa8c4516fd2266472ca4eab1b0cc40【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/11651/abd28cb4a771365211e1a01d628213a0【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/11824/0dd290f8842959cb02d6c3a434a58e68【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12003/07b00499b0ca857fc3ccd51f7046d946【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12003/12526a857a7685af0d7c2ee389c0ca9d【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12003/2a62e58cbdf56a5dc40748567d346fd5【海量资源：666java.com】.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12003/5c095075dcda0f39f0e7395ab9636378【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12188/0432ac1e431256fb894144aa2e66b03f【海量资源：666java.com】.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12188/17ed56811412ccab5024a119511e0f0e【海量资源：666java.com】.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12188/35c9a5cab69eae467adb7d85d76d41bf【海量资源：666java.com】.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12188/3d70890354f556d1b3acbc2f2fdd99b8【海量资源：666java.com】.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12188/4ab17456a34278a8ca18de54fea76f4f【海量资源：666java.com】.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12188/7559562971dc2eadd8fd03f02980a461【海量资源：666java.com】.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12188/98d02b66e1d3fdf8cc1f7f7c6f974b5f【海量资源：666java.com】.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12188/bf6e3f87d162595ddaa5d0786c0ed806【海量资源：666java.com】.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12188/c9fae97c8a4954cb91b59dc7e59ab710【海量资源：666java.com】.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12188/d286554382cbba791f85e667ea124e12【海量资源：666java.com】.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12188/f8b11bdcb1559e472b77e23fcf184dd9【海量资源：666java.com】.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12288/ae0959aafa30d1530ad4bdf7b1a8a19d【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12472/3a51f06f56b905b8fbf1661359e1727e【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12472/5b6955b4757c1a5fd0ecacdaf835e3ba【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12472/85205c0c0ddcdafd2fad4ff5a53af0cb【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12472/dee96c33619d76d33281332bb3d2494a【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12629/77452800d6567dbf202583a9308421fa【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12629/97f1f65e7277681a9e6da818832c8342【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12629/f5de2483afd924b90ea09b656f4fced8【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/12806/ffd41494a39ef737b3c1151929c3c4ad【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/246730/28d1be62669b4f3cc01c36466bf811a4【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/6845/20bc6a900fc0b829c2f0e723df050732【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/6849/accba531a365e6ae39614ebfa3273900【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/6970/36d3c7b158eda9421ef32463cb4d4fb0【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/6970/bae702d46c665e12113f5abd876eb53e【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/7489/ba9a5b6228b188f5b9b15017e29a302b【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/7810/675536edf1563b11ab7ead0def1215c7【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/8053/1f72306a9d8719c66790b56ef7977c56【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/8053/266cfaab2573c9777b1157816784727c【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/8137/d45bcf9a34da2ef1ef335532b0198bd9【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/8369/4338e26731db0df390896ab305506d8b【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/8369/ad3b4a49f4c1bff67124563abc50a0a2【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/8369/da7e1ecfd3c3ee0263b8892342dbc629【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/8393/5220029e92bc21e99920937a8210276e【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/8393/5e0bf3130dffa8e56f398f0856eb76f7【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/8393/6d2368424431f1b0d2b935386324b585【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/8393/b0c8226992bb97adda5ad84fe25372ea【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/8624/77ad2dc2513da8155a3781e8291fac33【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9014/3a0f9e151b35ceb00ded7ebc0745d230【海量资源：666java.com】.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9014/46d5cd1d042337e5e00d2caa91d92d26【海量资源：666java.com】.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9014/5421d5bf1eea5d2a232f43db5f8a1d07【海量资源：666java.com】.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9014/575e25256f663427fb51d9aa527fdf8a【海量资源：666java.com】.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9014/8e376fa283f5db1e6f2f35349d73228c【海量资源：666java.com】.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9014/b156224c10943df2287a71aea6a21bea【海量资源：666java.com】.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9014/bc1373d1e22023dc57710346e7dd5064【海量资源：666java.com】.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9014/cbc080e0cbdfdc137d8f2ddaf30db644【海量资源：666java.com】.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9014/ecf4c99d15d6407e2b650e9e6d0d697c【海量资源：666java.com】.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9014/fa7cc9998a4d7af386e12b5577db0b85【海量资源：666java.com】.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9042/b1221c308d2aaf13d0d677033ee406fc【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9042/f5753a4695fd771f8178120858086811【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9103/3169b7ca899afeb0359f132fb77c29dc【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9266/1e23562b6ff34206b11c5ec07608fb59【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9266/1fcc1a521b801a5f7428d5229525a38b【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9266/869f3a3d7b759fbfb794f8c81047f30e【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9266/9bbad67e205e54e8f7ec8ad37872a9e7【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9266/b7961a84838b5429a8f59826b91ed724【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9266/ea88719ec112dead21334034c9ef8a6c【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9266/ee413b86e8775c63e7947955646db975【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9373/35390aa8a6e6f9c92fda086a1b95b457【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9373/46c88c7d8e0507465bddb677e4eac5b9【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9373/63b94b5b1d002bb191c75d2c48af767b【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9373/eff56d3219ce5493ecacc70a168b2b9f【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9588/791750d6fe7ef88ecb3897e1d029f079【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9712/18b64aee22c67f488171a73133e4d465【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9712/c50ce5f2ff4ae723c6267185699ccda1【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9712/fc70c37867c7fbfb672fa3e37fe14b5b【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9788/e3b4b7fe5a94a88ca2feb04d734b9c36【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9946/15138305829ed15f45dd53ec38bd8379【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9946/20a6a22ae11c1be3e08c6fa0bc8a8c00【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/images/9946/35a3bc241d779ddcc357639547917ca1【海量资源：666java.com】.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/周末福利-一份Java工程师必读书单.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/周末福利-谈谈我对Java学习和面试的看法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/开篇词-以面试题为切入点，有效提升你的Java内功.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第10讲-如何保证集合是线程安全的-ConcurrentHashMap如何实现高效地线程安全？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第11讲-Java提供了哪些IO方式？NIO如何实现多路复用？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第12讲-Java有几种文件拷贝方式？哪一种最高效？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第13讲-谈谈接口和抽象类有什么区别？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第14讲-谈谈你知道的设计模式？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第15讲-synchronized和ReentrantLock有什么区别呢？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第16讲-synchronized底层如何实现？什么是锁的升级、降级？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第17讲-一个线程两次调用start()方法会出现什么情况？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第18讲-什么情况下Java程序会产生死锁？如何定位、修复？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第19讲-Java并发包提供了哪些并发工具类？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第1讲-谈谈你对Java平台的理解？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第20讲-并发包中的ConcurrentLinkedQueue和LinkedBlockingQueue有什么区别？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第21讲-Java并发类库提供的线程池有哪几种？分别有什么特点？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第22讲-AtomicInteger底层实现原理是什么？如何在自己的产品代码中应用CAS操作？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第23讲-请介绍类加载过程，什么是双亲委派模型？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第24讲-有哪些方法可以在运行时动态生成一个Java类？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第25讲-谈谈JVM内存区域的划分，哪些区域可能发生OutOfMemoryError.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第26讲-如何监控和诊断JVM堆内和堆外内存使用？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第27讲-Java常见的垃圾收集器有哪些？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第28讲-谈谈你的GC调优思路.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第29讲-Java内存模型中的happen-before是什么？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第2讲-Exception和Error有什么区别？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第30讲-Java程序运行在Docker等容器环境有哪些新问题？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第31讲-你了解Java应用开发中的注入攻击吗？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第32讲-如何写出安全的Java代码？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第33讲-后台服务出现明显“变慢”，谈谈你的诊断思路？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第34讲-有人说“Lambda能让Java程序慢30倍”，你怎么看？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第35讲-JVM优化Java代码时都做了什么？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第36讲-谈谈MySQL支持的事务隔离级别，以及悲观锁和乐观锁的原理和应用场景？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第37讲-谈谈SpringBean的生命周期和作用域？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第38讲-对比Java标准NIO类库，你知道Netty是如何实现更高性能的吗？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第39讲-谈谈常用的分布式ID的设计方案？Snowflake是否受冬令时切换影响？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第3讲-谈谈final、finally、finalize有什么不同？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第4讲-强引用、软引用、弱引用、幻象引用有什么区别？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第5讲-String、StringBuffer、StringBuilder有什么区别？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第6讲-动态代理是基于什么原理？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第7讲-int和Integer有什么区别？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第8讲-对比Vector、ArrayList、LinkedList有何区别？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/第9讲-对比Hashtable、HashMap、TreeMap有什么不同？.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/结束语-技术没有终点.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java核心技术面试精讲/结课测试-Java核心技术的这些知识，你真的掌握了吗？.md" afterDir="false" />
+    <list default="true" id="75af6b31-c28b-43e9-89dd-6801d65e3654" name="Default Changelist" comment="init">
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/01-如何制定性能调优标准？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/02-如何制定性能调优策略？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/03-字符串性能优化不容小觑，百M内存轻松存储几十G数据.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/04-慎重使用正则表达式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/05-ArrayList还是LinkedList？使用不当性能差千倍.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/06-Stream如何提高遍历集合效率？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/07-深入浅出HashMap的设计与优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/08-网络通信优化之I-O模型：如何解决高并发下I-O瓶颈？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/09-网络通信优化之序列化：避免使用Java序列化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/10-网络通信优化之通信协议：如何优化RPC网络通信？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/11-答疑课堂：深入了解NIO的优化实现原理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/12-多线程之锁优化（上）：深入了解Synchronized同步锁的优化方法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/13-多线程之锁优化（中）：深入了解Lock同步锁的优化方法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/14-多线程之锁优化（下）：使用乐观锁优化并行操作.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/15-多线程调优（上）：哪些操作导致了上下文切换？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/16-多线程调优（下）：如何优化多线程上下文切换？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/17-并发容器的使用：识别不同场景下最优容器.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/18-如何设置线程池大小？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/19-如何用协程来优化多线程业务？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/20-答疑课堂：模块三热点问题解答.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/21-磨刀不误砍柴工：欲知JVM调优先了解JVM内存模型.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/22-深入JVM即时编译器JIT，优化Java编译.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/23-如何优化垃圾回收机制？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/24-如何优化JVM内存分配？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/25-内存持续上升，我该如何排查问题？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/26-答疑课堂：模块四热点问题解答.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/27-单例模式：如何创建单一对象优化系统性能？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/28-原型模式与享元模式：提升系统性能的利器.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/29-如何使用设计模式优化并发编程？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/30-生产者消费者模式：电商库存设计优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/31-装饰器模式：如何优化电商系统中复杂的商品价格策略？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/32-答疑课堂：模块五思考题集锦.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/33-MySQL调优之SQL语句：如何写出高性能SQL语句？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/34-MySQL调优之事务：高并发场景下的数据库事务调优.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/35-MySQL调优之索引：索引的失效与优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/36-记一次线上SQL死锁事故：如何避免死锁？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/37-什么时候需要分表分库？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/38-电商系统表设计优化案例分析.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/39-数据库参数设置优化，失之毫厘差之千里.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/40-答疑课堂：MySQL中InnoDB的知识点串讲.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/41-如何设计更优的分布式锁？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/42-电商系统的分布式事务调优.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/43-如何使用缓存优化系统性能？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/44-记一次双十一抢购性能瓶颈调优.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100355/1113e44dd62591ce68961e017c11ed4f【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100355/20814a2a87057fdc03af699454f703b1【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100355/2c7c373963196a30e9d4fdc524a92d0b【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100355/32381d3314bd982544f69e4d3faba1de【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100355/6dc21193a6ffbf94a7dd8e5a0d2302c1【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100355/9eb01fe017b267367b11170a864bd0bc【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100355/dc950f3a5ff15253e101fac90c192f54【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100355/df9f4e3f3598a7e160c899f552a59391【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100355/e43a8f81d76927948a73a9977643daa5【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100355/f3bb46ed6ece4a8a9bcc3d9e9df84cae【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/0de0c467036f2973143a620448068a82【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/136315be52782bd88056fb28f3ec60ba【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/29b117cb60bcc8edd6d1fa21981fb9f8【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/2a208cf7dddf18d2fe813b75ef2f4ac9【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/3310cc063aaf19f2aeb9ea5bc3188e41【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/36ee4e180cb6bb4f1452c0bafbe6f37a【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/3e1d942b7e5e09ad6e4757b8d5cbe274【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/3e66a63ce9f0d9722005f78fa960244a【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/3fc5ef2eb6e594fd7d5cbc358cd5dd96【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/4c897ce649d3deb609a4f0a9ba7aee1f【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/54d775cf7df756672b23a1853441d3db【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/85bcacec92e74c5cb6d6a39669e0d896【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/d8f4a9cfb8d37d08487a68fc10e31fdd【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/dd4b03afb56a3b7660794ce11fc421c0【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/e14386a357185acc39fdc708fb3692cf【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/e27534c5a157d0908d51b806919b1515【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/ec2ec7914b3b86a1965dc98a830a3a62【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/100861/f9d03620ae5c7c82c83f522710a62a0a【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101244/2e912fc6de6faeb1713a10959e5f1e99【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101244/84f4d5dd908788fec0940431b4b912f0【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101244/bbe343640d6b708832c4133ec53ed967【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101244/c8306510d7562eb96c6f6b22a75e7592【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101244/d9f1e7fae6996a940e9471c47a455ba2【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101244/f78e6979c424cce677add97080811308【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101244/fd86f1b5cbac1f652bea58b039fbc8f8【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101651/1bba37b281d83cdf0c51095f473001d1【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101651/222196b8c410ff4ffca7131faa19d833【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101651/52e77acc6999efbdf4113daaa5918d46【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101651/5c71e1402407e8970f51f9253fb716b4【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101651/8ec55dc637830f728e505c673fefde3d【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101651/bbe343640d6b708832c4133ec53ed967【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101995/15ffcf63bf097a6db4826000f1923af0【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101995/d1fad4bd9f40383a69b9eefda14c37bd【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/101995/d5906bf5be6a91cb4ab3e4511da2421e【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/102619/14dde8a9486799ad1aa13aa06003757e【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/102619/73c791c705eb056ef3c44fd2bf8ecd29【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/102619/be3a4dbe5abbafc7121bae9ab46b1f47【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/102619/f5ecbf7c77a3ecffcc79d2854b3459f7【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/102974/601517ef35af63a9e470b8531124bc0a【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/102974/bbe343640d6b708832c4133ec53ed967【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/103541/21b0cc4361d662642bddbaf773931feb【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/103541/42b1a374f1d35789024291a4141d6192【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/103541/42f26c3109f56803a8f19bf7fb181c80【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/103541/4a7e3d6b77645b3258ba1680aa8087eb【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/103541/6d6371fda6214743d69c54528cd8ff99【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/103541/a76f5f8f4fcf23a6f0785d0412bfb911【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/103541/d8de8217c34be6af856773b63c7b7e1f【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/104094/0bb0fe79bc9fc3c386815e3d0bfcf088【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/104094/3214039ef8f15076084a363a9f0b0b65【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/104094/667149d07c494c29a23c1c08b9c0dbe6【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/104094/8d3c1654add00cb63645f1332e4eb669【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/104094/b13aa36ef3b15a98fab1755ac36101b0【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/104094/c54224d1ed2d579a550650693c70e4f9【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/104521/20e81165d99c5fc1a55424156e15ff13【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/104521/9b0a301337fa868eab1b9d32e6fcbd72【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/104521/bebdfb057a9243e640515900eec4ed94【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105234/0e61a2f4eb945f5a26bd7987d0babd1d【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105234/13eeee053c553863b3bdd95c07cb3b71【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105234/3e6cee25e85826aa5d4f8f480535234f【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105234/59e1d01c8a60fe722aae01db86a913da【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105234/728b1634e3e9971307264b5736cb1c6f【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105234/7a93cba1673119e4c9162a29e9875dd1【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105756/0c1e6c9a2951b1ba87b32be15708f633【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105756/3835ed3c7df4f859cc77de5d829dab05【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105756/650c9490bad5962cfcdd4bedf3e41f6b【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105756/6d70a02e0a4fb51259bd6ffcac0f75c6【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105756/880cbe050a2f65b1d9b457588f64f117【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105756/ae1dc00bfc5e3a751cc427841d14c9a8【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105756/ca6a5d4bb77ff67b1d30fcaac37c25d6【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105756/dcaf4e9441871ca17f9b263cbd2b082e【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105756/dfd02c98d495c4c4ed201ea7fe0e3f8b【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105756/e1dfb18f71c76d1468fa94d43f8ca933【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/105756/fb45f0c91af1a063d1f2db28dd21c49b【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/106203/29d54f4a8e1ecf388adc6b99cd5e0159【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/106203/94e6ebbaa0a23d677a4ad752e3e68732【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/106203/9906824978c891c86524f9394102de6c【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/106203/b7d00191a1d42def9633b8ea8491cf23【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/106203/c6702aea3f1aaca60b1cd2e38981ad7e【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/106203/dfd02c98d495c4c4ed201ea7fe0e3f8b【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/106953/259bd540cca1120813146cebbebef763【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/106953/605dbbcfbbfcc09143d7d9e7fed5ac7e【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/106953/6ea0938770cccc1b17c46f7b37d20711【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/106953/8313c788b71e4df16b29a98bb4b63ca5【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/106953/8d4ec9c73ec37d69adb105aa7d052717【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/106953/eda343938d9fa4ebb6b3331ae7b62680【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/107396/2824581e7c94a3a94b2b0abb1d348974【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/107396/3f4316c41d4ffb27e5a36db5f2641db9【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/107396/58d74b6e3e68edf9b595287686b42b58【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/107396/5c671c5ae73cbb8bc14b38d9e871530a【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/107396/638ede71247b855b50e04a25564f268e【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/107396/69db951663299d342aad572d911b0279【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/107396/71e8f8922bc7045a7b52e5a6dff82595【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/107396/830069547013fdcbbb74c1e9b75a77ba【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/107396/834d779d27afbee8c70219c1628f0bbe【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/107396/953dc139ff9035b41d06d4a400395e97【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/107396/ab3119a73f313d20a4aa0cee02e84022【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/107396/ef85b02537b9c970d55d3bbd5a3e3427【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/107396/f95d5db87d20068085b6d67cd6822d37【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108139/436338cc5251291eeb6dbb57467443d5【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108139/55de34ab7eccaf9ad83bac846d0cbf04【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108139/59941c65600fe4a11e5bc6b8304fe0de【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108139/5fd7c3f198018cf5e789c25bd4f14caf【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108139/75f84993ba0c52d6d338d19dd4db1a5d【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108139/8b67579af661a666dff89d16ab2e2f26【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108139/91eb734ea45dc8a24b7938401eafb7c2【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108139/b924a13d8cb4e383b94e82d34125002e【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108139/bffd496963f6bbd345092c1454524dd1【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108139/cfaef71dbc8ba4f149a6e134482370fd【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/184df3ee5ab0a920f506b3daa6250a61【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/1e4429a9785ae4e6c0884655ee8b5747【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/2869503e8d5460e36b3fd3e1a52a8888【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/2bed3871097249d64ccf4c79d68109a2【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/31a79622cdcadda4e9003b075378dc62【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/3633095ed54d1ef22fc08310497d6b49【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/3c9072c659a91b5f83cbc1a112ddcc72【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/3cc14844625cebcc1cdb836e5ccbfc43【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/42880a93eb63ae6854a7920e73a751e8【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/4bfb58d626f988260e016a2bdf0e8687【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/4ceb91714afa77b54d1112a0e1f0c863【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/5a651a2f52dfed72712543f7680de091【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/60ab8d7847a55a9bcf84d17ecd11ebdc【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/6fdea40b5ff4f2f0744e019c3bef79a7【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/74f42fa2b48ceaff869472f6061c1c7b【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/7af697d9cfd6002a49063ab2464d5f7d【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/808870b42f5f6525d79f70fd287a293f【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/90d26ef49ad94510062ac3f36727a346【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/c5b89deb306a2c470e606fa9c49dd0d9【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/d2ad570e1fff2a64a1924c2852f93e37【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/e59188982cf5b75243a8c333bfead068【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/f3c17fd9bb436599fb48cf151ee7ba17【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/108582/feb358259ea8b3ed2b67e868c101d271【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/09ada15236e8ceeef2558d6ab7505425【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/1080a8574a1a1ded35b736ccbec40524【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/20e59cb2df51bd171d41c81e074821f2【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/26d688a3af534fb00fe3b89d261e5c2e【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/2838514b87e62d69bf51d7a7f12a0c20【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/2ac5ee0c9a6fe67ce8f896be75d05f01【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/31a205290c3b2391f115ee77f511a43a【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/500c2f0e112ced378fd49a09c61c5caa【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/8da35d95d5b31e3f0a582dbd4d47fd9a【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/915e9793981a278112087f0c880b96b4【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/a8a506a512922609669b4073d0dbc224【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/b8090ff2c7ddf54fb5f6e3c19a36d32f【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/bb92ec845c715f9d36a6ce48a0c7d276【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/e29c9ac3e53ffbc8a5648644a87d6256【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/f2fa07e388f5a3dbe84bb12bfea5ee76【海量资源：666java.com】.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109201/f832278afd5cdb94decd1f6826056dbe【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/109980/bbe343640d6b708832c4133ec53ed967【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/10e46817482166d205f319cd0512942e【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/4020416795c991f68fb057b3e6b80ca4【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/492ddbbe2ef47d63a6dc797fd44c16bb【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/5488fde01df647508d60b9a77cd1f14f【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/58e2377b2adcded4c454d410bbab7d1c【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/76a42789a838dfd6b1735c41dd9f8c45【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/7f7a40f88150117f6fe0bb56f52da6c7【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/80efe0ba8feb86baa20834fd48c302fe【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/840fbe1ecdf7526fdc818f4639e22091【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/8fc6cb3338945524fb09a092f396fa0b【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/b5ea0778ff22bdde10a57edfc353712b【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/bd11fa15122956719289afea2464eff8【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/d390d8c7bb90bdbf26775265ad451c50【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/d3d7221fec38845145ac0f365196427b【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/113440/dc7e4046ddd22438c21690e5bc38c123【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/114194/0c60d5685aa881cf66be43c6c4529927【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/114194/280826363e1d5a3e64529dfd3443e5b6【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/114194/6173739ee9a5d7e26c8b00f2ed8d9e9a【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/114194/d717c7e782620d2e46beb070dbc8154c【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/114194/db7d28a1f27d46cf534064ab4e74f47d【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/116369/0b20dbd8274be269779989b3df546dbb【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/116369/18b7427c6d7e65821284fe90ec461565【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/116369/2b8f194d32bf2387264d50258c1f2235【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/116369/4cebb097ea9a1d2db2c3cfc98bf611f0【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/116369/524d7510e8c3ec264f274798d72b99c8【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/116369/8eaac54829f3c99337e481d833a93dd0【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/116369/9a98b5abb7ff82530b02c6aeb15b6242【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/116369/bbe343640d6b708832c4133ec53ed967【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/116369/c689b2fd284c19fd2049b1f73091226f【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/116369/eacb96b876a4db6f3f020bd1efd39243【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/116369/f6dc2c083b30377628b3699322f6611b【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/117247/49198c13e2dfdff0a9492a1b58cd93a0【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/117247/58b1567a4ff86460ececfd420eda80e3【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/117247/7d6e8c42d082ac5b75882e3d171a8047【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/117247/b685033798d1027dac3f2f6cb1c2c6e7【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/117247/e018d73c4a00de2bc3dc6932e0fa75b4【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/119070/11c5a983340d380b07fc02d1bfcabc3b【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/120160/5297b9556d527dec788b5298d4810fa5【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/120160/be83083a261bf1302aca81c122b0ac4c【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/120160/db97c34b74f0903673badc256ba46cdd【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/121710/2a32f1dc2dfbb1f9bc169ee55174d2fd【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/121710/88b4ae3373eb5428c238b70423a13e76【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/121710/f26b2fad64a9a527b5ac0e8c7f4be992【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/125983/1c2df592672c78fd5d006cd23eb11f28【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/127527/111f44892deb9919a1310d636a538f5a【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/127527/23f68980870465ba6c00c0f2619fcfa9【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/127527/2a1cf8f45675acac6fe07c172a36ec95【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/127527/48d448543aeac5eba4b9edd24e1bcf6c【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/127527/59734e1a229ceee9df4295d0901ce2d5【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/127527/6ac3de014819c54fe6904c938240b183【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/127527/8791dfe19fce916f77b6c5740bc32e2f【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/127527/dcbb483b62b1e0a51d03c7edfcf89767【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/128481/0a169df1141f31326b4b6ab331ab3748【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/128481/5ae757f7c5b12901d4422b5722c0647b【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/128481/d939bf92331838da581c4b500e7473a3【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/129823/bbe343640d6b708832c4133ec53ed967【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/129823/e47d6d3c0bcd5aa455252a045c9f52e0【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/130677/bbe343640d6b708832c4133ec53ed967【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/240692/28d1be62669b4f3cc01c36466bf811a4【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/96277/7b9946fd1a3512ded6d2ab0e563870f7【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/96908/f8460bb16b56e8c8897c7cf4c9f99eb8【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97215/357f1cb1263fd0b5b3e4ccb6b971c96d【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97215/b1995253db45cd5e5b7bc1ded7cbdd50【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97671/1022f60810980e0d9cdee7ace7c2813a【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97671/105badb94ecd9c3ed1b9c09c3ed25cdc【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97671/197f80286625dc814b62a1220f14c0fa【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97671/2cb06df017f9e2974a8bd47c081196ae【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97671/6ede246f783be477d3219f4218543691【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97671/93e48614363857393e75084b55b3e225【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97671/9c48880c13fd89bc48c0bd756a00561b【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97671/9f877bcafa908991a56b0262ed2990e5【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97671/a61f13e7540341ff064bf8d104069922【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97671/bbe343640d6b708832c4133ec53ed967【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97671/dd5c24c6cfc5a11b133bdfcfb4c43b5d【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/97671/fed10b8310d8bc3873a2e94bcd848b80【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98145/54f564eb63a2c74723a82540668fc009【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98145/bbe343640d6b708832c4133ec53ed967【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98194/2932afaf9eecb2cce789ad5151180a4a【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98194/2d96660e8e88a2697e066fd301663153【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98194/431ae410ec4369cc81af7622a23b409b【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98194/66e7cf2dafa91a3ae80405f97a91899b【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98194/6ffe85677e50bb75152d45526a7ba667【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98194/844a2a65add49c2f4d15b10667943069【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98194/a70d0081607081471df4db435641b51a【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98194/a8f7403c1b6b720318d97accf191843e【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98194/ac58706f86ebd1d7349561ae501fca0a【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98194/bf03e37ace494cf84171b55f9b63bdfd【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98582/ea8dfeebeae8f05ae809ee61b3bf3094【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98582/f548ce93fef2d41b03274295aa0a0419【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/98582/fc256f9f8f9e3224aac10b2ee8940e00【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/99052/c0a12608e37753c96f2358fe0f6ff86f【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/99052/ebc8c027e556331dc327e18feb00c7d9【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/99478/12bbf6e62c7c29ae82bf90fead72b98f【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/99478/24592c6f90300f7bab86ec4141dd7e9f【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/99478/399d715ed2f687e22ec9ca2a65bd88c2【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/99478/4c4af15b08d3b11de3fe603a70dc6ac2【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/99478/64f1e83054e2997f1fd96b221fb0da7d【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/99774/bd4bc4b2746f4b005ca26042412f4ee2【海量资源：666java.com】.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/images/99774/ec0ebe4f622e9edcd9de86cb92f15eeb【海量资源：666java.com】.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/加餐-什么是数据的强、弱一致性？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/加餐-推荐几款常用的性能测试工具.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/开篇词-怎样才能做好性能调优？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/期末测试-有关Java性能调优，你掌握了多少呢？.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java性能调优实战/结束语-栉风沐雨，砥砺前行！.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -170,12 +332,14 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/zhanyou/learnspace/timegeekbang-master/java核心技术面试精讲",
+    "last_opened_file_path": "/Users/zhanyou/learnspace/timegeekbang-master/java性能调优实战/images",
     "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/java性能调优实战/images" />
+      <recent name="$PROJECT_DIR$/java性能调优实战" />
       <recent name="$PROJECT_DIR$/java核心技术面试精讲" />
     </key>
   </component>
@@ -206,7 +370,7 @@
       <workItem from="1692545674652" duration="662000" />
       <workItem from="1692547961926" duration="4352000" />
       <workItem from="1693925968027" duration="2367000" />
-      <workItem from="1700873784733" duration="1186000" />
+      <workItem from="1700873784733" duration="2755000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1693927207982</created>
@@ -257,7 +421,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693928547802</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="init">
+      <created>1700874979265</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1700874979265</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -289,7 +460,6 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <MESSAGE value="init" />
     <MESSAGE value="1" />
     <MESSAGE value="2" />
     <MESSAGE value="3" />
@@ -297,6 +467,7 @@
     <MESSAGE value="5" />
     <MESSAGE value="6" />
     <MESSAGE value="7" />
-    <option name="LAST_COMMIT_MESSAGE" value="7" />
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
 </project>
